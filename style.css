@@ -1,0 +1,55 @@
+/* BODY PLUS TITLE */
+
+#mainBody {
+    width: 320px;
+    height: auto;
+}
+
+#titleStuff {
+    color: #333;
+}
+
+#myH1 {
+    font-family: 'Quicksand';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 70px;
+    letter-spacing: 5px;
+}
+
+hr {
+    margin: 0px -15px;
+    background-color: #666;
+    border: 0;
+    height: 1px;
+}
+
+/* BUTTONS */
+
+.myButtons {
+    font-family: 'Quicksand';
+    font-weight: 500;
+    color: #666 !important;
+    text-align: left;
+    width: 100%;
+    line-height: 45px;
+    transition: 0.1s ease;
+}
+
+.myButtons:hover {
+    background: #ddd;
+    color: #333 !important;
+    cursor: pointer;
+}
+
+.column-6 {
+    position: relative;
+    width: 50%;
+}
+
+/* TEXT AREA */
+#namesArea {
+    width: 100%;
+    max-height: 400px;
+}
+
